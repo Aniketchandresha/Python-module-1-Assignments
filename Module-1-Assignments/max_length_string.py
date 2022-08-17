@@ -2,6 +2,3 @@
 of the longest one.
 '''
 
-names = ["Aniket", "Sejal", "India", "Canada", "Python"]
-
-print(names)
